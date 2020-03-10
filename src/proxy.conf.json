@@ -1,0 +1,6 @@
+{
+    "/api/*": {
+        "target": "https://www.universal-tutorial.com",
+        "secure": false
+    }
+}
